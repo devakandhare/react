@@ -2,7 +2,12 @@ we use useState hook from React to handle the state for the component.
 first we declare and initialize the state variable using useState hook
 
 ```jsx
-const [count, setCount] = useState("");
+const [count, setCount] = useState(0);
+
+// update state using updater function as
+setCount(count + 1);
+// or
+setCount((prevCount) => prevCount + 1);
 ```
 
 count is the state variable
