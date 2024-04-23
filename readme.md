@@ -6,3 +6,4 @@
 | 4         | project-4        | Passing data to component using prop                     |
 | 5         | project-5        | Handle component state using useState hook               |
 | 6         | project-6        | Handle component state using useReducer hook             |
+| 7         | project-7        | Handle uncontrolled component using useRef               |

@@ -1,0 +1,1 @@
+useRef hook used to get pointer to the element. we can then access the value and other properties on element with ref.curren.<propValue>. useRef hook mainly used to focus the element and handle the uncontrolled inputs.
