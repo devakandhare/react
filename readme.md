@@ -5,3 +5,4 @@
 | 3         | project-3        | Adding setup to use fonts and images                     |
 | 4         | project-4        | Passing data to component using prop                     |
 | 5         | project-5        | Handle component state using useState hook               |
+| 6         | project-6        | Handle component state using useReducer hook             |
