@@ -13,7 +13,10 @@ function App() {
   };
 
   const decrementCounter = () => {
-    counter = counter - 1;
+    if (counter > 0) {
+      counter = counter - 1;
+    }
+
     setCounter(counter);
   };
 
